@@ -2318,7 +2318,6 @@
 @@||cssload.net/js/adframe.js
 @@||cyberdevilz.net^$generichide
 @@||d2anfhdgjxf8s1.cloudfront.net/ajs.php?adserver=$script
-@@||d3pkae9owd2lcf.cloudfront.net^$script,domain=hockeybuzz.com|hotslogs.com|wowhead.com
 @@||daclips.in^$generichide
 @@||dailymail.co.uk/abe/$script
 @@||dailymail.co.uk^$generichide
@@ -2415,7 +2414,6 @@
 @@||exsite.pl^*/advert.js
 @@||external.mranime.tv^$generichide,script
 @@||ezcast.tv/static/scripts/adscript.js
-@@||fas.li^$generichide
 @@||fastclick.net/w/get.media?sid=58322&tp=5&$script,domain=flv2mp3.com
 @@||fastcocreate.com/js/advertisement.js
 @@||fastcodesign.com/js/advertisement.js
@@ -2937,7 +2935,6 @@
 @@||phoronix.com^$script,~third-party
 @@||photobucket.com^$generichide
 @@||photofacefun.com^*/adblock.js
-@@||picfont.com^$generichide
 @@||picload.org^$generichide
 @@||picu.pk^$generichide
 @@||pipocas.tv/js/advertisement.js
@@ -2999,7 +2996,6 @@
 @@||radioaficion.com/HamNews/*/ad$image
 @@||radioaficion.com^$generichide
 @@||radioio.com^*/adframe.js
-@@||randomarchive.com^$generichide
 @@||rapid8.com^$script
 @@||rapidmoviez.com/ad$image,subdocument
 @@||rapidmoviez.com/files/php/mgid-ad$subdocument
@@ -3163,7 +3159,6 @@
 @@||theads.me/www/delivery/$script,domain=vidup.me
 @@||theatlantic.com^$generichide
 @@||theatlantic.com^*/adver$script
-@@||thebarchive.com^$generichide
 @@||thecountrycaller.com/showads.php
 @@||thefreethoughtproject.com^$generichide
 @@||thegeekyglobe.com^$generichide
